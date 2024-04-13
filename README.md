@@ -1,6 +1,6 @@
 # This demo project is for the get-start toturial article
-I copy the code from the article, because I don't find the github source code.
-https://mobx.js.org/getting-started
+I read the greate article about mobx state management.
+https://mobx.js.org/getting-started , but I cannot find its github source code. So I create this project, the code is from this article.
 
 ## Available Scripts
 
